@@ -23,4 +23,6 @@ Routing Algorithm :
 Analytics :
   - Embedding_Analysis.ipynb
 
-This project was done during my undergraduate studies at Indian Institue of Technology, Madras between Jan-May 2023 under Prof. Narayanaswamy N. S. 
+This project was done during my undergraduate studies at Indian Institue of Technology, Madras between Jan-May 2023 under Prof. Narayanaswamy N. S.
+
+_Note : Kindly refer to the report for further details._
